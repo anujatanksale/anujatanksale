@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anujatanksale
 - 👀 I’m interested in Software Testing 
-- 💞️ I’m looking to collaborate on project.
+
 
 
 <!---
