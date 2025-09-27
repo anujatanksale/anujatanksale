@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anujatanksale
-- 👀 I’m interested in Software Testing 
+- 👀 I’m Software Tester
 
 
 
